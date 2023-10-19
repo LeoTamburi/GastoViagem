@@ -2,8 +2,8 @@
 
 O GastoViagem é um aplicativo Android simples que permite calcular o custo de uma viagem com base na distância percorrida, no preço do combustível e na autonomia do veículo.
 
-## Captura de Tela
-![Captura de Tela do GasViagem Calculator](screenshot.png)
+## Captura de Tela!
+![Texto Alternativo](URL_da_Imagem)
 
 ## Funcionalidades
 
